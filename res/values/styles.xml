@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MMTabButton">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@color/mm_tab_btn</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">@drawable/tab_bg</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">0.70000005dip</item>
+        <item name="android:layout_marginRight">0.70000005dip</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+
+    <style name="MMListView">
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:listSelector">@drawable/list_selector_background</item>
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0.0px</item>
+    </style>
+    <style name="MMCheckBox">
+        <item name="android:background">@drawable/mm_checkbox_btn</item>
+    </style>
+    <style name="MMTheme.Basic" parent="@android:style/Theme">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:checkboxStyle">@style/MMCheckBox</item>
+        <item name="android:listViewStyle">@style/MMListView</item>
+
+        <!-- <item name="android:windowAnimationStyle">@style/MMAnimation.Activity</item> -->
+    </style>
+    <style name="MMTitle">
+        <item name="android:textSize">19.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+</resources>

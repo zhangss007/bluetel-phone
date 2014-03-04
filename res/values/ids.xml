@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="main_tab_1" type="id">false</item>
+    <item name="main_tab_2" type="id">false</item>
+    <item name="main_tab_3" type="id">false</item>
+    <item name="main_tab_4" type="id">false</item>
+    
+    <item name="title" type="id">false</item>
+    <item name="sub_title" type="id">false</item>
+    <item name="back" type="id">false</item>
+
+</resources>

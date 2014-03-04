@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">软电话</string>
+    <string name="launcher_name">135助手</string>
+    <string name="login_account_hint">帐号</string>
+    <string name="login_password_hint">密码</string>
+    <string name="login_is_auto">是否自动登录</string>
+    <string name="login_login">登录</string>
+    <string name="login_login_title">用户登录</string>
+    <string name="mm_title_back">返回</string>
+    <string name="mm_title_save">保存</string>
+    <string name="mm_title_search">查询</string>
+    
+    
+    
+    <string name="main_tab_1_title">拜访处理</string>
+    <string name="main_tab_2_title">我的待办</string>
+    <string name="main_tab_3_title">查找客户</string>
+    <string name="main_tab_4_title">设置</string>
+    
+    <string name="display_title">陈列指导</string>
+    <string name="operational_title">经营指导</string>
+    
+    
+    <string name="setup_menu_1_title">版本更新</string>
+    <string name="setup_menu_2_title">服务器设置</string>
+    <string name="setup_menu_3_title">设置自动登录</string>
+    <string name="setup_menu_4_title">关于135助手</string>
+    <string name="setup_sign_out">退出登录</string>
+    <string name="setup_server_reset">重置默认地址</string>
+    <string name="setup_server_input_hirt">填写服务器地址</string>
+    
+    
+    
+    <string name="visit_log_title">日志填报</string>
+    <string name="visit_menu_1_title">二维码签到</string>
+    <string name="visit_menu_7_title">GPS签到</string>
+    <string name="visit_menu_2_title">柜台拍照</string>
+    <string name="visit_menu_3_title">浏览陈列指导</string>
+    <string name="visit_menu_4_title">浏览经营指导</string>
+    <string name="visit_menu_5_title">拜访日志填写</string>
+    <string name="visit_menu_6_title">上传地理坐标</string>
+    
+    
+   <!--  <string name="handle_detail_title">我的待办详情</string> -->
+    <string name="handle_detail_title">我的待办-客户</string>
+   
+    <string name="handle_detail_item_1_title">专卖许可证:</string>
+    <string name="handle_detail_item_2_title">名称:</string>
+    <string name="handle_detail_item_3_title">电话:</string>
+    <string name="handle_detail_item_4_title">地址:</string>
+    <string name="handle_detail_item_5_title">标题:</string>
+    <string name="handle_detail_item_6_title">详情:</string>
+    <string name="handle_detail_item_7_title">填写处理结果</string>
+    <string name="handle_detail_item_8_title">编号:</string>
+    <string name="load_more">加载更多</string>
+    <string name="loadDataNull">未找到您想要的数据</string>
+    <string name="listReBtnText">重新加载</string>
+    <string name="loading">正在加载...</string>
+    <string name="install">安 装</string>
+    <string name="login_warn">提示：请使用玉溪烟草局135系统的账户和密码登录。</string>
+
+</resources>
